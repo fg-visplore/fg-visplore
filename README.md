@@ -1,3 +1,3 @@
-My purpose is to transform **11:45**⏰ to:
+My purpose is to transform **11:45**⏰ into:
 
 ![huh](./huh-cat.gif)
